@@ -1,10 +1,10 @@
 # Exercícios
 ### Sobre
-App desenvolvido para auxiliar na realização de atividades físicas. V.1.0 alfa <br/>
+App desenvolvido para auxiliar na realização de atividades físicas. <br/>
 Este projeto é um desafio referente ao programa de estágio da Radix Engenharia e Software e compõe parte do processo seletivo.
 #
 ### About
-App developed to assist in performing physical activities. V.1.0 alpha <br/>
+App developed to assist in performing physical activities.<br/>
 This project is a challenge related to the internship program of Radix Engenharia e Software and is part of the selection process.
 
 #
