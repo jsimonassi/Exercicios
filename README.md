@@ -1,5 +1,4 @@
 # Exercícios
-#
 ### Sobre
 App desenvolvido para auxiliar na realização de atividades físicas. V.1.0 alfa <br/>
 Este projeto é um desafio referente ao programa de estágio da Radix Engenharia e Software e compõe parte do processo seletivo.
