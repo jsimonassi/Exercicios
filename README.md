@@ -9,6 +9,6 @@ This project is a challenge related to the internship program of Radix Engenhari
 
 #
 <img src="./assets/App1.jpeg" width="300"/>  <img src="./assets/App2.jpeg" width="300"/><br/>
-<img src="./assets/App3.jpeg" width="300"/>   <img src="./assets/App4.jpeg" width="300"/>
+<img src="./assets/App3.jpeg" width="300"/>
 
 João Victor Simonassi - jsimonassi@id.uff.br
