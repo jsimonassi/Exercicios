@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/caminhada_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        app:srcCompat="@drawable/caminhada_icon" />
+
+    <ImageView
+        android:id="@+id/corrida_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        app:srcCompat="@drawable/corrida_icon" />
+
+    <ImageView
+        android:id="@+id/escalada_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        app:srcCompat="@drawable/escalada_icon" />
+
+    <ImageView
+        android:id="@+id/aerobica_exercise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="15dp"
+        app:srcCompat="@drawable/aerobico_icon" />
+
+</LinearLayout>
